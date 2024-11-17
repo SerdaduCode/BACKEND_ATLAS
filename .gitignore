@@ -1,0 +1,16 @@
+# Ignore .env file
+.env
+
+# Ignore Go build files
+/bin/
+/pkg/
+/vendor/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
